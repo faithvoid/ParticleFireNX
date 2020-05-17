@@ -10,7 +10,7 @@ Build:
 As long as you have DevKitPro set up with SDL2, all you need to do is run "make -f Makefile.nx".
 
 TODO: 
-Clean up makefile.
+Clean up makefile, add an icon.
 
 Bugs:
 You tell me.
