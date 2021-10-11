@@ -30,8 +30,8 @@ include $(DEVKITPRO)/libnx/switch_rules
 #     - icon.jpg
 #     - <libnx folder>/default_icon.jpg
 #---------------------------------------------------------------------------------
-APP_TITLE	:=	ParticleFire-NX
-APP_AUTHOR	:=	Kavka
+APP_TITLE	:=	ParticleFireNX
+APP_AUTHOR	:=	faithvoid
 APP_VERSION	:=	1.0
 
 TARGET		:=	ParticleFire-NX
