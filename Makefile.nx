@@ -34,7 +34,7 @@ APP_TITLE	:=	ParticleFireNX
 APP_AUTHOR	:=	faithvoid
 APP_VERSION	:=	1.0
 
-TARGET		:=	ParticleFire-NX
+TARGET		:=	ParticleFireNX
 BUILD		:=	build
 SOURCES		:=  src
 
