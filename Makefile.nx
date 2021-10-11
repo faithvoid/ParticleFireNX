@@ -46,11 +46,10 @@ define DO_REF_STR
 @echo ";" >> $(TOPDIR)/$@
 endef
 
-VERSION		:=	1.36
+VERSION		:=	1.0
 DATA		:=	data
 INCLUDES	:=	
-DEFINES		+=	-DUSE_CURL -DUSE_CODEC_VORBIS -DPRODUCT_VERSION=\"$(VERSION)\" -DARCH_STRING=\"aarch64\" \
-				-DBOTLIB -DNO_VM_COMPILED -DUSE_OPENAL
+#DEFINES		+=	
 EXEFS_SRC	:=	exefs_src
 #ROMFS	:=	romfs
 
