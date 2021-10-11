@@ -1,4 +1,4 @@
-# ParticleFire-NX
+# ParticleFireNX
 Proof of concept Nintendo Switch port of sorhanp's "particlefire-revision". It does nothing except look pretty and make a decent screensaver.
 
 ![It's alive!](https://i.imgur.com/AtHprSK.jpg)
